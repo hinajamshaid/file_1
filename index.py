@@ -1,4 +1,2 @@
-city="peshawar"
-city="karachi"
-print(city)
-cities="jkhfjsdzhhfu"
+name = "Hina"
+grade = 12
